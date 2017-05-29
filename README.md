@@ -1,1 +1,17 @@
 # fbcmd4j
+
+
+
+INSTALACION
+
+
+
+USO
+
+
+
+CREDITOS
+
+
+
+LICENCIA
